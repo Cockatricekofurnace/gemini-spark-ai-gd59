@@ -1,4 +1,4 @@
-# 
+# Nouveau Gemini Spark plugins. Avec pipelines de données et exécution de code — optimisé pour des performances et une efficacité maximales.
 
 
 
